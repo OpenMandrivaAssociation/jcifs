@@ -3,7 +3,7 @@
 
 Name:           jcifs
 Version:        1.2.16
-Release:        %mkrel 0.0.2
+Release:        %mkrel 0.0.3
 Epoch:          0
 Summary:        Common Internet File System Client in 100% Java
 License:        LGPL
@@ -12,7 +12,7 @@ Group:          Development/Java
 Source0:        http://jcifs.samba.org/src/jcifs-%{version}.tgz
 Requires:       servlet
 BuildRequires:  servlet
-BuildRequires:  jpackage-utils >= 0:1.7.2
+BuildRequires:  java-rpmbuild >= 0:1.7.2
 BuildRequires:  ant >= 0:1.6.5
 %if %{gcj_support}
 BuildRequires:  java-gcj-compat-devel
