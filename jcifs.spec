@@ -21,7 +21,6 @@ BuildRequires:  java-devel
 BuildArch:      noarch
 %endif
 
-BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 
 %description
 The jCIFS SMB client library enables any Java application to remotely
