@@ -1,9 +1,9 @@
-%define gcj_support 1
+%define gcj_support 0
 %define section        free
 
 Name:           jcifs
-Version:        1.2.16
-Release:        %mkrel 0.0.3
+Version:        1.3.3
+Release:        %mkrel 0.0.1
 Epoch:          0
 Summary:        Common Internet File System Client in 100% Java
 License:        LGPL
