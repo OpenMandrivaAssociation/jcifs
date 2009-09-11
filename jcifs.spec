@@ -3,7 +3,7 @@
 
 Name:           jcifs
 Version:        1.3.3
-Release:        %mkrel 0.0.1
+Release:        %mkrel 0.0.2
 Epoch:          0
 Summary:        Common Internet File System Client in 100% Java
 License:        LGPL
