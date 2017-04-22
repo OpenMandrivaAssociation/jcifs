@@ -1,0 +1,11 @@
+--- build.xml	2011-10-18 21:26:25.000000000 +0200
++++ build.xml-gil	2012-03-21 12:18:15.514657716 +0100
+@@ -52,8 +52,6 @@
+             source="1.5"
+             target="1.5"
+             fork="yes"
+-            executable="/usr/local/java5/bin/javac"
+-            compiler="javac1.5"
+             debug="on">
+ <!--
+             <compilerarg line="-Xlint:deprecation -Xlint:unchecked"/>
