@@ -8,7 +8,7 @@ Summary:       Common Internet File System Client in 100% Java
 #   src/jcifs/util/MD4.java: BSD
 #   all the rest:            LGPLv2+
 License:       LGPLv2+ and BSD and MIT
-URL:           http://jcifs.samba.org/
+URL:           https://jcifs.samba.org/
 Source0:       http://jcifs.samba.org/src/%{name}-%{version}.tgz
 Source1:       http://mirrors.ibiblio.org/pub/mirrors/maven2/jcifs/jcifs/1.3.17/jcifs-1.3.17.pom 
 # fix javac executable
